@@ -14,7 +14,7 @@ jobs:
   #This workflow contains a single job/pipeline called "build"
   build-and-release:
     #The type of runner (it's the machine that will run my pipeline) that the job will run on
-    runs-on: ubunto-latest
+    runs-on: ubuntu-latest
 
     #Steps represent a sequence of tasks that will be executed as part of the job
     steps:
