@@ -1,0 +1,15 @@
+C:\Users\Brahim GDOURA\github\github-actions-lab\SimpleDotNetApp\bin\Debug\net8.0\SimpleDotNetApp.exe
+C:\Users\Brahim GDOURA\github\github-actions-lab\SimpleDotNetApp\bin\Debug\net8.0\SimpleDotNetApp.deps.json
+C:\Users\Brahim GDOURA\github\github-actions-lab\SimpleDotNetApp\bin\Debug\net8.0\SimpleDotNetApp.runtimeconfig.json
+C:\Users\Brahim GDOURA\github\github-actions-lab\SimpleDotNetApp\bin\Debug\net8.0\SimpleDotNetApp.dll
+C:\Users\Brahim GDOURA\github\github-actions-lab\SimpleDotNetApp\bin\Debug\net8.0\SimpleDotNetApp.pdb
+C:\Users\Brahim GDOURA\github\github-actions-lab\SimpleDotNetApp\obj\Debug\net8.0\SimpleDotNetApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brahim GDOURA\github\github-actions-lab\SimpleDotNetApp\obj\Debug\net8.0\SimpleDotNetApp.AssemblyInfoInputs.cache
+C:\Users\Brahim GDOURA\github\github-actions-lab\SimpleDotNetApp\obj\Debug\net8.0\SimpleDotNetApp.AssemblyInfo.cs
+C:\Users\Brahim GDOURA\github\github-actions-lab\SimpleDotNetApp\obj\Debug\net8.0\SimpleDotNetApp.csproj.CoreCompileInputs.cache
+C:\Users\Brahim GDOURA\github\github-actions-lab\SimpleDotNetApp\obj\Debug\net8.0\SimpleDotNetApp.sourcelink.json
+C:\Users\Brahim GDOURA\github\github-actions-lab\SimpleDotNetApp\obj\Debug\net8.0\SimpleDotNetApp.dll
+C:\Users\Brahim GDOURA\github\github-actions-lab\SimpleDotNetApp\obj\Debug\net8.0\refint\SimpleDotNetApp.dll
+C:\Users\Brahim GDOURA\github\github-actions-lab\SimpleDotNetApp\obj\Debug\net8.0\SimpleDotNetApp.pdb
+C:\Users\Brahim GDOURA\github\github-actions-lab\SimpleDotNetApp\obj\Debug\net8.0\SimpleDotNetApp.genruntimeconfig.cache
+C:\Users\Brahim GDOURA\github\github-actions-lab\SimpleDotNetApp\obj\Debug\net8.0\ref\SimpleDotNetApp.dll
