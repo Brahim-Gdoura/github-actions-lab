@@ -1,0 +1,22 @@
+name: docker-build-workflow
+
+on: 
+  push:
+    branches: none
+  pull_request:
+    branches: none
+
+  workflow_dispatch:
+
+jobs:
+
+  build-container:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+    - uses: actions/changes@v4
+    - name: Build the Docker image
+      working-directory: SimpleDotNetApp
+      run: docker build . --file Dockerfile --tag simple-dotnet-app:$(date +%s)
